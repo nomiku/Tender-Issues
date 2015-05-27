@@ -1,5 +1,7 @@
 # Tender Issues and Bugs
-Public issue tracker for Tender website and apps. Please tag your issues with the name of the platform you use to access Tender.
+Public issue tracker for Tender website and apps. Please tag your issues with the name of the platform you use to access Tender. 
+
+Not a Github user? Email tendersupport@nomiku.com for help.
 
 #### Android
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.herokuapp.bse)
