@@ -11,7 +11,11 @@ Not a Github user? Email tendersupport@nomiku.com for help.
 * [Apple iTunes](https://itunes.apple.com/us/app/id967097270)
 * [Bugs](https://github.com/nomiku/Tender-Issues/labels/iOS)
 
-#### Web
+#### Web (Desktop/Chrome App)
 * [Website](http://eattender.com)
 * [Chrome App](https://chrome.google.com/webstore/detail/eat-tender-sous-vide-reci/omjliemoeegelmanflcegjepfnaonpap)
-* [Bugs](https://github.com/nomiku/Tender-Issues/labels/Web)
+* [Bugs](https://github.com/nomiku/Tender-Issues/labels/Desktop)
+ 
+#### Web (Mobile)
+* [Website](http://eattender.com)
+* [Bugs](https://github.com/nomiku/Tender-Issues/labels/Mobile)
