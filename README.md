@@ -13,4 +13,5 @@ Not a Github user? Email tendersupport@nomiku.com for help.
 
 #### Web
 * [Website](http://eattender.com)
+* [Chrome App](https://chrome.google.com/webstore/detail/eat-tender-sous-vide-reci/omjliemoeegelmanflcegjepfnaonpap)
 * [Bugs](https://github.com/nomiku/Tender-Issues/labels/Web)
